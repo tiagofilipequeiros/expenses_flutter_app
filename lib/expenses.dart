@@ -13,11 +13,16 @@ class _ExpensesState extends State<Expenses> {
   @override
   Widget build(BuildContext context) {
     return const Scaffold(
-      body: Column(
-        children: [
-          Text("data"),
-          Text("data2"),
-        ],
+      body: SizedBox(
+        width: double.infinity,
+        height: double.infinity,
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Text("data"),
+            Text("data2"),
+          ],
+        ),
       ),
     );
   }

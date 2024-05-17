@@ -1,6 +1,6 @@
 import "package:uuid/uuid.dart";
 
-final uuid = Uuid();
+final uuid = const Uuid();
 
 class Expense {
   Expense({

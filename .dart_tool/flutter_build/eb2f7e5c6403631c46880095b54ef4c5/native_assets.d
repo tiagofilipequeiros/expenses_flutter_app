@@ -1,0 +1,1 @@
+ /home/user/expenses_flutter_app/.dart_tool/flutter_build/eb2f7e5c6403631c46880095b54ef4c5/native_assets.yaml: 
